@@ -26,6 +26,11 @@ body {
     Arial,
     sans-serif;
 }
+.brand-logo {
+  height: 50px;
+  width: auto;
+  display: block;
+}
 a {
   color: inherit;
   text-decoration: none;
