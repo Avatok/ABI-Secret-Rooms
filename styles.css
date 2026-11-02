@@ -26,11 +26,6 @@ body {
     Arial,
     sans-serif;
 }
-.brand-logo {
-  height: 50px;
-  width: auto;
-  display: block;
-}
 a {
   color: inherit;
   text-decoration: none;
@@ -652,4 +647,17 @@ footer a {
     grid-column: 2;
     width: 110px;
   }
+}
+.site-header .brand img.brand-logo {
+  height: 50px !important;
+  width: auto !important;
+  max-height: 50px !important;
+  max-width: 150px !important;
+  object-fit: contain;
+  display: block;
+}
+.site-header .brand {
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
 }
