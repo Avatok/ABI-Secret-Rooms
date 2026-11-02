@@ -4,7 +4,7 @@ Diese Website bietet eine übersichtliche Sammlung aller **Key Locations** in **
 
 Die Website ist modern gestaltet, für schnelle Ladezeiten optimiert und direkt über **GitHub Pages** erreichbar.
 
-🌐 **Live Website:** https://avatok.github.io/ABI-Key-Guide/
+🌐 **Live Website:** https://avatok.github.io/ABI-Secret-Rooms/
 
 ---
 
